@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556209686 source:/home/kumarmeet/Desktop/IfElseThreePointsFalOnStraightLine/main.c
+	<stdio.h>
+	<stdlib.h>
+

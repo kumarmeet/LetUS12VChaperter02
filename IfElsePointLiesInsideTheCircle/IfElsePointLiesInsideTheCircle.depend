@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556211432 source:/home/kumarmeet/Desktop/IfElsePointLiesInsideTheCircle/main.c
+	<stdio.h>
+	<stdlib.h>
+
