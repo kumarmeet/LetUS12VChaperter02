@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556182558 source:c:\users\meet\desktop\ifelsereverseequal\main.c
+	<stdio.h>
+	<stdlib.h>
+
