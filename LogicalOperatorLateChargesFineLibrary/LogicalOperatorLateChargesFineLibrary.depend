@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556278859 source:c:\users\meet\desktop\logicaloperatorlatechargesfinelibrary\main.c
+	<stdio.h>
+	<stdlib.h>
+
