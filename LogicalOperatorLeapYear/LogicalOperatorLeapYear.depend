@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556275448 source:c:\users\meet\desktop\logicaloperatorleapyear\main.c
+	<stdio.h>
+	<stdlib.h>
+
