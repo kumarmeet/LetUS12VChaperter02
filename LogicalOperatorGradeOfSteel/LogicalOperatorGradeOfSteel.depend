@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556277692 source:c:\users\meet\desktop\logicaloperatorgradeofsteel\main.c
+	<stdio.h>
+	<stdlib.h>
+
