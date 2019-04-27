@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556356289 source:/home/kumarmeet/Desktop/LogicalOperatorTriangleIsoEquilScaleneRight/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
