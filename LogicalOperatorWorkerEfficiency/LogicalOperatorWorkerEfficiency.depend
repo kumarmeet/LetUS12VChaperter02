@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556363533 source:/home/kumarmeet/Desktop/LogicalOperatorWorkerEfficiency/main.c
+	<stdio.h>
+	<stdlib.h>
+
