@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556445732 source:/home/kumarmeet/Desktop/LogicalOperatorRGBToCMYK/main.c
+	<stdio.h>
+	<stdlib.h>
+
