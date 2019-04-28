@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556443909 source:/home/kumarmeet/Desktop/LogicalOperatorCompanyPolicy/main.c
+	<stdio.h>
+	<stdlib.h>
+
