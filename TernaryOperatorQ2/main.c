@@ -8,7 +8,7 @@ int main()
 {
     char ch;
 
-    printf("Enter only lower case or upper case character: ");
+    printf("Enter any key: ");
     scanf("%c",&ch);
 
     (ch >= 'A' && ch <= 'Z') || (ch >= 'a' && ch <= 'z')
